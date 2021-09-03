@@ -1,0 +1,4 @@
+node_modules
+src/mikro-orm.config.ts
+dist/mikro-orm.config.js
+dist/mikro-orm.config.js.map
