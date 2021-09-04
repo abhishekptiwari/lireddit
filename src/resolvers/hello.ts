@@ -1,7 +1,7 @@
 import { Query, Resolver } from "type-graphql";
 
 @Resolver()
-export class HelloResolver {
+export class HelloResolvers {
 
   @Query(() => String)
   hello(){
