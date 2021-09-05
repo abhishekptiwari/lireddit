@@ -44,7 +44,7 @@ export class UserResolvers {
       ]
       }
     }
-    if(options.username.length <= 5){
+    if(options.password.length <= 5){
       return {
         errors:[
           {
